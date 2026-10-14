@@ -1,0 +1,2159 @@
+[
+  {
+    "word_diacritics": "أنا",
+    "word_bare": "انا",
+    "root": "",
+    "word_type": "pron",
+    "meanings": [
+      {
+        "definition": "I (first person singular subject pronoun)",
+        "example": "",
+        "definition_ar": "ضمير المتكلم المفرد في حالة الرفع: أنا."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أنا",
+    "word_bare": "انا",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "ego",
+        "example": "",
+        "definition_ar": "الأنا؛ الذات كما يدركها الشخص ويعيها."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "المغرب",
+    "word_bare": "المغرب",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Maghreb (the predominantly Arabic-speaking geographic region comprising northwest Africa, particularly the region of Africa north of the Sahara and west of the Nile; the coastal plains of Morocco, Algeria, Tunisia, and western Libya)",
+        "example": "",
+        "definition_ar": "المغرب العربي: منطقة جغرافية يغلب عليها استعمال العربية في شمال غرب إفريقيا، وتشمل خصوصًا المناطق الواقعة شمال الصحراء وغرب نهر النيل، ومنها السواحل والسهول في المغرب والجزائر وتونس وغرب ليبيا."
+      },
+      {
+        "definition": "Morocco (a country in North Africa)",
+        "example": "",
+        "definition_ar": "المغرب: دولة تقع في شمال إفريقيا."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "السلطة الوطنية الفلسطينية",
+    "word_bare": "السلطة الوطنية الفلسطينية",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Palestinian National Authority",
+        "example": "",
+        "definition_ar": "السلطة الوطنية الفلسطينية."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "إنجليزي",
+    "word_bare": "انجليزي",
+    "root": "",
+    "word_type": "adj",
+    "meanings": [
+      {
+        "definition": "Pertaining to England",
+        "example": "",
+        "definition_ar": "منسوب إلى إنجلترا أو متعلق بها."
+      },
+      {
+        "definition": "Pertaining to English-speaking countries",
+        "example": "",
+        "definition_ar": "منسوب إلى البلدان الناطقة باللغة الإنجليزية أو متعلق بها."
+      },
+      {
+        "definition": "Pertaining to the English language",
+        "example": "",
+        "definition_ar": "منسوب إلى اللغة الإنجليزية أو متعلق بها."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "إنجليزي",
+    "word_bare": "انجليزي",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "Englishman",
+        "example": "",
+        "definition_ar": "رجل إنجليزي؛ شخص من إنجلترا."
+      },
+      {
+        "definition": "English language",
+        "example": "",
+        "definition_ar": "اللغة الإنجليزية."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "إسرائيلي",
+    "word_bare": "اسرائيلي",
+    "root": "",
+    "word_type": "adj",
+    "meanings": [
+      {
+        "definition": "Israeli",
+        "example": "",
+        "definition_ar": "إسرائيلي؛ منسوب إلى إسرائيل أو مواطن فيها، بحسب السياق."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "إسرائيلي",
+    "word_bare": "اسرائيلي",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "Israelite",
+        "example": "سُلَيْمَانُ بْنُ جَبِيرُولَ الْإِسْرَائِيلِيُّ الْفَيْلَسُوفُ",
+        "definition_ar": "إسرائيلي قديم؛ من بني إسرائيل."
+      },
+      {
+        "definition": "Israeli",
+        "example": "",
+        "definition_ar": "إسرائيلي؛ منسوب إلى إسرائيل أو مواطن فيها، بحسب السياق."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أنثى",
+    "word_bare": "انثى",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "a female",
+        "example": "يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِن ذَكَرٍ وَأُنْثَى وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا",
+        "definition_ar": "أنثى؛ فرد من الجنس المؤنث."
+      },
+      {
+        "definition": "testicles",
+        "example": "",
+        "definition_ar": "الخصيتان. (هذا التعريف لا يتوافق ظاهريًا مع المدخل «أنثى»، لذا يُوصى بمراجعة المصدر بدل اعتماده دون تحقق.)"
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أنثى",
+    "word_bare": "انثى",
+    "root": "",
+    "word_type": "adj",
+    "meanings": [
+      {
+        "definition": "female",
+        "example": "",
+        "definition_ar": "أنثى؛ مؤنث."
+      },
+      {
+        "definition": "feminine",
+        "example": "",
+        "definition_ar": "مؤنث؛ دال على الجنس المؤنث."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "اليابان",
+    "word_bare": "اليابان",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Japan (a country in East Asia)",
+        "example": "سِيَاحَةُ ٱلْيَابَانِ تَتَضَمَّنُ مَزِيجًا مُثِيرًا مِنَ ٱلثَّقَافَةِ ٱلْقَدِيمَةِ وَٱلْحَدِيثَةِ.",
+        "definition_ar": "اليابان: دولة تقع في شرق آسيا."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "إيران",
+    "word_bare": "ايران",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Iran (a country in West Asia)",
+        "example": "",
+        "definition_ar": "إيران: دولة تقع في غرب آسيا."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الأردن",
+    "word_bare": "الاردن",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Jordan (a country in West Asia in the Middle East)",
+        "example": "الْأُرْدُنُ مُحَاطَةٌ مِنَ الشَّمَالِ بِسُورِيَا، مِنَ الْغَرْبِ بِفِلَسْطِينَ، وَمِنَ الشَّرْقِ بِالْعِرَاقِ، وَمِنَ الشَّرْقِ وَالْجَنُوبِ بِالْمَمْلَكَةِ الْعَرَبِيَّةِ السُّعُودِيَّةِ.",
+        "definition_ar": "الأردن: دولة تقع في غرب آسيا ضمن منطقة الشرق الأوسط."
+      },
+      {
+        "definition": "Jordan (a river in West Asia in the Middle East, that empties into the Dead Sea, flowing through Israel, the Golan Heights, the West Bank and Jordan)",
+        "example": "وَسَتَغْسِلُ يَا نَهْرَ ٱلْأُرْدُنِ وَجْهِي بِمِيَاهٍ قُدْسِيَّة\nوَسَتَمْحُو يَا نَهْرَ ٱلْأُرْدُنِ آثَارَ ٱلْقَدَمِ ٱلْهَمَجِيَّة",
+        "definition_ar": "نهر الأردن: نهر في غرب آسيا يصب في البحر الميت، ويمر عبر مناطق تشمل إسرائيل وهضبة الجولان والضفة الغربية والأردن."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الصين",
+    "word_bare": "الصين",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "China (a cultural region and civilization in East Asia, occupying the region around the Yellow, Yangtze, and Pearl Rivers, taken as a whole under its various dynasties)",
+        "example": "",
+        "definition_ar": "الصين التاريخية: منطقة ثقافية وحضارية في شرق آسيا حول أنهار هوانغ خه ويانغتسي ونهر اللؤلؤ، ويُنظر إليها بوصفها كيانًا تاريخيًا عبر سلالاتها الحاكمة المختلفة."
+      },
+      {
+        "definition": "China (a large country in East Asia, occupying the region around the Yellow, Yangtze, and Pearl Rivers; the People's Republic of China, since 1949)",
+        "example": "",
+        "definition_ar": "الصين: دولة كبيرة في شرق آسيا، تُعرف رسميًا باسم جمهورية الصين الشعبية منذ عام 1949."
+      },
+      {
+        "definition": "Shambhala, an occulted land where particularly pious Druze are believed to dwell in their afterlife",
+        "example": "",
+        "definition_ar": "شامبالا: أرض خفية يُعتقد، وفق معتقدات منسوبة إلى بعض الدروز، أن شديدي التقوى منهم يقيمون فيها في الحياة الآخرة."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "العبرية",
+    "word_bare": "العبرية",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Hebrew (language)",
+        "example": "",
+        "definition_ar": "اللغة العبرية."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "اثنان",
+    "word_bare": "اثنان",
+    "root": "",
+    "word_type": "num",
+    "meanings": [
+      {
+        "definition": "two",
+        "example": "رَأَيْتُ رَجُلَيْنِ ٱثْنَيْنِ وَٱمْرَأَتَيْنِ ٱثْنَتَيْنِ",
+        "definition_ar": "اثنان؛ العدد 2."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أخطبوط",
+    "word_bare": "اخطبوط",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "octopus",
+        "example": "",
+        "definition_ar": "أخطبوط؛ حيوان بحري رخوي له ثمانية أذرع."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الكويت",
+    "word_bare": "الكويت",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Kuwait (a country in West Asia in the Middle East).",
+        "example": "",
+        "definition_ar": "الكويت: دولة تقع في غرب آسيا ضمن منطقة الشرق الأوسط."
+      },
+      {
+        "definition": "Kuwait City (the capital city of Kuwait).",
+        "example": "",
+        "definition_ar": "مدينة الكويت: عاصمة دولة الكويت."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "إسرائيل",
+    "word_bare": "اسرائيل",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Israel (the Hebrew patriarch Jacob)",
+        "example": "كُلُّ الطَّعَامِ كَانَ حِلًّا لِّبَنِي إِسْرَائِيلَ إِلَّا مَا حَرَّمَ إِسْرَائِيلُ عَلَىٰ نَفْسِهِ مِن قَبْلِ أَن تُنَزَّلَ التَّوْرَاةُ",
+        "definition_ar": "إسرائيل: الاسم الذي يُطلق في التراث العبري على النبي يعقوب."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "إسرائيل",
+    "word_bare": "اسرائيل",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Israel (a country in Asia)",
+        "example": "",
+        "definition_ar": "إسرائيل: دولة في غرب آسيا."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الجزائر",
+    "word_bare": "الجزائر",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Algeria (a country in North Africa)",
+        "example": "",
+        "definition_ar": "الجزائر: دولة تقع في شمال إفريقيا."
+      },
+      {
+        "definition": "Algiers (the capital and largest city of Algeria)",
+        "example": "",
+        "definition_ar": "الجزائر العاصمة: عاصمة الجزائر وأكبر مدنها."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "السعودية",
+    "word_bare": "السعودية",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Saudi Arabia (a country in West Asia in the Middle East), ellipsis of اَلْمَمْلَكَةُ الْعَرَبِيَّةُ السُّعُودِيَّةُ (al-mamlakatu l-ʕarabiyyatu s-suʕūdiyyatu)",
+        "example": "",
+        "definition_ar": "السعودية: اختصار شائع لاسم المملكة العربية السعودية، وهي دولة تقع في غرب آسيا في شبه الجزيرة العربية."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الرياض",
+    "word_bare": "الرياض",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Riyadh (the capital city of Saudi Arabia)",
+        "example": "",
+        "definition_ar": "الرياض: عاصمة المملكة العربية السعودية."
+      },
+      {
+        "definition": "Riyadh (a province of Saudi Arabia; capital: Riyadh)",
+        "example": "",
+        "definition_ar": "منطقة الرياض: إحدى مناطق المملكة العربية السعودية، وعاصمتها مدينة الرياض."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "القاهرة",
+    "word_bare": "القاهرة",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Cairo (the capital city of Egypt)",
+        "example": "",
+        "definition_ar": "القاهرة: عاصمة مصر."
+      },
+      {
+        "definition": "Cairo (a governorate of Egypt, containing the capital city)",
+        "example": "",
+        "definition_ar": "محافظة القاهرة: محافظة مصرية تضم العاصمة القاهرة."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "العربية",
+    "word_bare": "العربية",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "definite singular of عَرَبِيَّة (ʕarabiyya)",
+        "example": "",
+        "definition_ar": "صيغة المفرد المعرفة من «عَرَبِيَّة»."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "اسم",
+    "word_bare": "اسم",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "name",
+        "example": "مَا ٱسْمُكَ؟",
+        "definition_ar": "اسم؛ تسمية يُعرف بها شخص أو شيء."
+      },
+      {
+        "definition": "appellation",
+        "example": "",
+        "definition_ar": "تسمية؛ لقب أو اسم يُطلق على شخص أو شيء."
+      },
+      {
+        "definition": "reputation, prestige",
+        "example": "",
+        "definition_ar": "سمعة؛ مكانة أو وجاهة."
+      },
+      {
+        "definition": "noun (a category above, including pronouns and substantives like adjectives and participles, see the derived terms to get a picture of the usage)",
+        "example": "",
+        "definition_ar": "اسم: قسم من أقسام الكلمة في النحو العربي، ويشمل الاسم والضمير وما يدخل في الاستعمال الاسمي، وفق التصنيف المعجمي المعتمد."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "اسم",
+    "word_bare": "اسم",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أورشليم",
+    "word_bare": "اورشليم",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Jerusalem (the claimed capital city of Israel; the claimed capital city of Palestine)",
+        "example": "وَأَصْحَابُ هَٰذِهِ الْمُؤَامَرَةِ لَمْ يَسْتَطِيعُوا أَنْ يَجْهَرُوا بِهَا فِي أُورُشَلِيمَ",
+        "definition_ar": "القدس/أورشليم: مدينة تدّعي إسرائيل وفلسطين أن لها صفة العاصمة."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "القدس",
+    "word_bare": "القدس",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Jerusalem (a city in the Holy Land between the Mediterranean Sea and Dead Sea, holy in Judaism, Christianity and Islam; the claimed capital city of both Israel and Palestine)",
+        "example": "الْبَيْتُ لَنَا وَٱلْقُدْسُ لَنَا\n وَبِأَيْدِينَا سَنُعِيدُ بَهَاءَ ٱلْقُدْسِ\n بِأَيْدِينَا لِلْقُدْسِ سَلَام آتٍ",
+        "definition_ar": "القدس: مدينة في المنطقة الواقعة بين البحر المتوسط والبحر الميت، ولها مكانة دينية في اليهودية والمسيحية والإسلام؛ وتُعد عاصمةً تطالب بها كل من إسرائيل وفلسطين."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الشرق الأوسط",
+    "word_bare": "الشرق الاوسط",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Middle East (the geopolitical region at the intersection of Asia, Africa and Europe, comprising West Asia excluding the South Caucasus and additionally including all of Egypt and all of Turkey)",
+        "example": "",
+        "definition_ar": "الشرق الأوسط: منطقة جيوسياسية عند ملتقى آسيا وإفريقيا وأوروبا، تشمل غرب آسيا باستثناء جنوب القوقاز، وتضم أيضًا مصر وتركيا وفق هذا التعريف."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الشرق الاوسط",
+    "word_bare": "الشرق الاوسط",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "alternative spelling of الشَّرْق الْأَوْسَط (aš-šarq al-ʔawsaṭ)",
+        "example": "",
+        "definition_ar": "تهجئة بديلة لعبارة «الشَّرْق الْأَوْسَط»."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الأحد",
+    "word_bare": "الاحد",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Sunday",
+        "example": "",
+        "definition_ar": "الأحد؛ أحد أيام الأسبوع."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الله",
+    "word_bare": "الله",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "God",
+        "example": "قُلْ هُوَ ٱللّٰهُ أَحَدٌ ٱللّٰهُ ٱلصَّمَدُ لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+        "definition_ar": "الله؛ الإله."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "انا",
+    "word_bare": "انا",
+    "root": "",
+    "word_type": "pron",
+    "meanings": [
+      {
+        "definition": "alternative spelling of أَنَا (ʔanā)",
+        "example": "",
+        "definition_ar": "تهجئة بديلة لكلمة «أَنَا»."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "إنكليزي",
+    "word_bare": "انكليزي",
+    "root": "",
+    "word_type": "adj",
+    "meanings": [
+      {
+        "definition": "alternative spelling of إِنْجْلِيزِيّ (ʔinglīziyy)",
+        "example": "",
+        "definition_ar": "تهجئة بديلة لكلمة «إِنْجْلِيزِيّ»."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "إنكليزي",
+    "word_bare": "انكليزي",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "alternative spelling of إِنْجْلِيزِيّ (ʔinglīziyy)",
+        "example": "",
+        "definition_ar": "تهجئة بديلة لكلمة «إِنْجْلِيزِيّ»."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أبجدية",
+    "word_bare": "ابجدية",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "writing system, script, alphabet",
+        "example": "",
+        "definition_ar": "نظام كتابة؛ خط؛ أبجدية."
+      },
+      {
+        "definition": "abjad",
+        "example": "",
+        "definition_ar": "الأبجد؛ ترتيب الحروف العربية وفق الترتيب الأبجدي التقليدي."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أبجدية",
+    "word_bare": "ابجدية",
+    "root": "",
+    "word_type": "adj",
+    "meanings": [
+      {
+        "definition": "feminine singular of أَبْجَدِيّ (ʔabjadiyy)",
+        "example": "",
+        "definition_ar": "صيغة المؤنث المفرد من «أَبْجَدِيّ»."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "العراق",
+    "word_bare": "العراق",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Iraq (a country in Asia)",
+        "example": "",
+        "definition_ar": "العراق: دولة تقع في غرب آسيا."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "ألمانيا",
+    "word_bare": "المانيا",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Germany (a country in Central Europe)",
+        "example": "",
+        "definition_ar": "ألمانيا: دولة تقع في وسط أوروبا."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "إيفاء",
+    "word_bare": "ايفاء",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "verbal noun of أَوْفَى (ʔawfā, “to fulfill a compact, pay the whole of”) (form IV).",
+        "example": "",
+        "definition_ar": "مصدر الفعل «أَوْفَى» في الصيغة الرابعة، ويُستعمل بمعنى الوفاء بالعهد أو إتمام الشيء وأدائه كاملًا."
+      },
+      {
+        "definition": "fulfillment, discharge",
+        "example": "",
+        "definition_ar": "وفاء؛ إتمام أو أداء ما وجب."
+      },
+      {
+        "definition": "payment",
+        "example": "",
+        "definition_ar": "دفع؛ سداد."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "ا",
+    "word_bare": "ا",
+    "root": "",
+    "word_type": "character",
+    "meanings": [
+      {
+        "definition": "Although usually considered to be the first letter of the Arabic alphabet, the small hamza (ء (ʔ)) that sits on top of أ (ʔ) is really the first letter of the Arabic alphabet, and the tall column is its bearer, together known as alif mahmūza (أَلِف مهموزة, hamzated alif). This entry only deals with the lower part, the bearer, which is called أَلِف (ʔalif) and, without the hamza, is used to lengthen a preceding a.",
+        "example": "",
+        "definition_ar": "على الرغم من أن الألف تُعد عادةً أول حروف الأبجدية العربية، فإن هذا الوصف يميّز بين الهمزة (ء) التي تُكتب فوق الألف في «أ» وبين جسم الألف نفسه. ويُسمّى الحرف «ألفًا مهموزة» عند اقترانه بالهمزة. ويتناول هذا المدخل جسم الألف «ا» دون الهمزة، وهو يُستخدم في الكتابة العربية لمدّ الحركة السابقة في مواضع محددة."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "ا",
+    "word_bare": "ا",
+    "root": "",
+    "word_type": "symbol",
+    "meanings": [
+      {
+        "definition": "The first numeral symbol of the Arabic alphabet (traditional abjad order, used for list numbering), written in the Arabic script; followed by ب (b).",
+        "example": "",
+        "definition_ar": "أول رمز عددي في ترتيب أبجد التقليدي للحروف العربية، ويُستخدم في الترقيم، ويليه الحرف «ب»."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "إكسينون",
+    "word_bare": "اكسينون",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "xenon",
+        "example": "",
+        "definition_ar": "الزينون: عنصر كيميائي غازي نبيل."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أفريقانية",
+    "word_bare": "افريقانية",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "Afrikaans language",
+        "example": "",
+        "definition_ar": "لغة الأفريكانية."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أبجدي",
+    "word_bare": "ابجدي",
+    "root": "",
+    "word_type": "adj",
+    "meanings": [
+      {
+        "definition": "alphabetical",
+        "example": "",
+        "definition_ar": "أبجدي؛ مرتب وفق ترتيب الحروف."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "إيطالية",
+    "word_bare": "ايطالية",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "alternative form of إِيطَالِيَا (ʔīṭāliyā, “Italy”)",
+        "example": "",
+        "definition_ar": "صيغة بديلة لاسم «إيطاليا»."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "إيطالية",
+    "word_bare": "ايطالية",
+    "root": "",
+    "word_type": "adj",
+    "meanings": [
+      {
+        "definition": "feminine singular of إِيطَالِيّ (ʔīṭāliyy, “Italian”)",
+        "example": "",
+        "definition_ar": "صيغة المؤنث المفرد من «إيطاليّ»."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "إيطالية",
+    "word_bare": "ايطالية",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "female equivalent of إِيطَالِيّ (ʔīṭāliyy, “Italian”)",
+        "example": "",
+        "definition_ar": "المؤنث المقابل لكلمة «إيطاليّ»؛ امرأة إيطالية."
+      },
+      {
+        "definition": "female equivalent of إِيطَالِيّ (ʔīṭāliyy, “Italian”):",
+        "example": "",
+        "definition_ar": "المؤنث المقابل لكلمة «إيطاليّ»؛ امرأة إيطالية."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "إيطالية",
+    "word_bare": "ايطالية",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "Italian language",
+        "example": "",
+        "definition_ar": "اللغة الإيطالية."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "ال",
+    "word_bare": "ال",
+    "root": "",
+    "word_type": "article",
+    "meanings": [
+      {
+        "definition": "the",
+        "example": "",
+        "definition_ar": "أداة التعريف في اللغة الإنجليزية، وتُقابل غالبًا «الـ» في العربية بحسب السياق."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أرض",
+    "word_bare": "ارض",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "earth, land",
+        "example": "",
+        "definition_ar": "الأرض؛ اليابسة أو سطح العالم الذي نعيش عليه."
+      },
+      {
+        "definition": "Earth, earth",
+        "example": "",
+        "definition_ar": "الأرض؛ وقد يُقصد بها كوكب الأرض أو التربة بحسب السياق."
+      },
+      {
+        "definition": "country, land",
+        "example": "",
+        "definition_ar": "بلد؛ أرض أو إقليم."
+      },
+      {
+        "definition": "ground, bottom, lowest surface",
+        "example": "",
+        "definition_ar": "الأرض أو السطح السفلي؛ القاع بحسب السياق."
+      },
+      {
+        "definition": "agricultural ground specifically, cropland",
+        "example": "مَنِ ٱقْتَنَى كَلْبًا لَيْسَ بِكَلْبِ صَيْدٍ وَلَا مَاشِيَةٍ وَلَا أَرْضٍ فَإِنَّهُ يَنْقُصُ مِنْ أَجْرِهِ قِيرَاطَانِ كُلَّ يَوْمٍ.",
+        "definition_ar": "أرض زراعية؛ أرض مخصصة لزراعة المحاصيل."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أرض",
+    "word_bare": "ارض",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [
+      {
+        "definition": "to earth, to ground",
+        "example": "",
+        "definition_ar": "يُوصِل إلى الأرض أو يؤرّض؛ وقد يعني إسقاط شيء على الأرض بحسب السياق."
+      },
+      {
+        "definition": "to terraform",
+        "example": "",
+        "definition_ar": "يُهيّئ جرمًا سماويًا أو يغيّر بيئته لتصبح أقرب إلى ظروف العيش على الأرض."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أرض",
+    "word_bare": "ارض",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أرض",
+    "word_bare": "ارض",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أقمار",
+    "word_bare": "اقمار",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "plural of قَمَر (qamar, “moon”)",
+        "example": "",
+        "definition_ar": "جمع «قَمَر»."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أب",
+    "word_bare": "اب",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "father",
+        "example": "",
+        "definition_ar": "أب."
+      },
+      {
+        "definition": "ancestor, forefather",
+        "example": "",
+        "definition_ar": "سَلَف؛ جدّ أو أحد الأسلاف."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أب",
+    "word_bare": "اب",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أب",
+    "word_bare": "اب",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [
+      {
+        "definition": "to put the hand to (as \"to the sword\")",
+        "example": "",
+        "definition_ar": "يمدّ يده إلى شيء، مثل أن يمدّها إلى السيف."
+      },
+      {
+        "definition": "to move, agitate",
+        "example": "",
+        "definition_ar": "يحرّك؛ يثير أو يقلق."
+      },
+      {
+        "definition": "to long, yearn",
+        "example": "أَبّ إِلَى وَطَنِهِ",
+        "definition_ar": "يحنّ؛ يتوق إلى شيء."
+      },
+      {
+        "definition": "to prepare for a journey",
+        "example": "",
+        "definition_ar": "يتهيّأ للسفر."
+      },
+      {
+        "definition": "to intend",
+        "example": "",
+        "definition_ar": "ينوي؛ يقصد."
+      },
+      {
+        "definition": "to be straight, upright (as a road, conduct)",
+        "example": "",
+        "definition_ar": "يكون مستقيمًا أو قويمًا، مثل الطريق أو السلوك."
+      },
+      {
+        "definition": "to defeat",
+        "example": "",
+        "definition_ar": "يهزم؛ يتغلّب على."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أب",
+    "word_bare": "اب",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "verbal noun of أَبّ (ʔabb, “to intend, to prepare for a journey”) (form I)",
+        "example": "",
+        "definition_ar": "مصدر الفعل «أَبَّ» في الصيغة الأولى، بمعنى نوى أو تهيّأ للسفر."
+      },
+      {
+        "definition": "intention",
+        "example": "",
+        "definition_ar": "نيّة؛ قصد."
+      },
+      {
+        "definition": "travelling plan",
+        "example": "",
+        "definition_ar": "خطة سفر؛ برنامج الرحلة."
+      },
+      {
+        "definition": "fodder, grass, meadow",
+        "example": "",
+        "definition_ar": "علف؛ عشب أو مرعى."
+      },
+      {
+        "definition": "herbage (fresh or dry)",
+        "example": "",
+        "definition_ar": "نباتات عشبية، طازجة كانت أم يابسة."
+      },
+      {
+        "definition": "herbage prepared for pasture",
+        "example": "",
+        "definition_ar": "أعشاب مهيّأة للرعي."
+      },
+      {
+        "definition": "dried fruits",
+        "example": "",
+        "definition_ar": "فواكه مجففة."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "ام",
+    "word_bare": "ام",
+    "root": "",
+    "word_type": "article",
+    "meanings": [
+      {
+        "definition": "dialectal form of اَلْ (al-)",
+        "example": "Hadith\nلَيْسَ مِنْ اَمْبِرِّ امْصِيَامُ فِي امْسَفَر\nlaysa min am-birri m-ṣiyāmu fī m-safar",
+        "definition_ar": "صيغة لهجية من أداة التعريف «الـ»."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الصربية",
+    "word_bare": "الصربية",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Serbian (language)",
+        "example": "",
+        "definition_ar": "اللغة الصربية."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الله أعلم",
+    "word_bare": "الله اعلم",
+    "root": "",
+    "word_type": "phrase",
+    "meanings": [
+      {
+        "definition": "God knows",
+        "example": "",
+        "definition_ar": "الله أعلم؛ الله وحده يعلم."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "ابتاع",
+    "word_bare": "ابتاع",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [
+      {
+        "definition": "to buy, to purchase",
+        "example": "قَرَّرَ الرَّجُلُ اِبْتِيَاعَ سَيَّارَةٍ جَدِيدَةٍ.",
+        "definition_ar": "يشتري؛ يقتني بالمال."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "آب",
+    "word_bare": "اب",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "August (eighth month of the Gregorian and Julian calendars)",
+        "example": "",
+        "definition_ar": "أغسطس/آب: الشهر الثامن في التقويمين الغريغوري واليولياني."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "آب",
+    "word_bare": "اب",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [
+      {
+        "definition": "to return, to come back",
+        "example": "",
+        "definition_ar": "يعود؛ يرجع."
+      },
+      {
+        "definition": "to repent",
+        "example": "",
+        "definition_ar": "يتوب؛ يرجع عن الذنب."
+      },
+      {
+        "definition": "to incur, catch, be left with",
+        "example": "",
+        "definition_ar": "يتحمّل أو يصاب بشيء أو ينتهي به الأمر إلى شيء، بحسب السياق."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "آب",
+    "word_bare": "اب",
+    "root": "",
+    "word_type": "adj",
+    "meanings": [
+      {
+        "definition": "active participle of أَبَى (ʔabā)",
+        "example": "",
+        "definition_ar": "اسم الفاعل من «أَبَى»."
+      },
+      {
+        "definition": "reserved, unwilling, reluctant",
+        "example": "",
+        "definition_ar": "متحفّظ؛ غير راغب أو متردد."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "آب",
+    "word_bare": "اب",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "آلة",
+    "word_bare": "الة",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "instrument, utensil",
+        "example": "",
+        "definition_ar": "أداة؛ آلة أو وعاء يُستخدم لغرض معين."
+      },
+      {
+        "definition": "tool, apparatus, implement",
+        "example": "",
+        "definition_ar": "أداة؛ جهاز أو وسيلة تُستخدم لإنجاز عمل."
+      },
+      {
+        "definition": "device, appliance, machine",
+        "example": "",
+        "definition_ar": "جهاز؛ آلة أو معدّة."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أنف",
+    "word_bare": "انف",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "nose",
+        "example": "",
+        "definition_ar": "أنف."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أنف",
+    "word_bare": "انف",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أنف",
+    "word_bare": "انف",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أنف",
+    "word_bare": "انف",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الولايات المتحدة",
+    "word_bare": "الولايات المتحدة",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "United States",
+        "example": "",
+        "definition_ar": "الولايات المتحدة."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الولايات المتحدة الأمريكية",
+    "word_bare": "الولايات المتحدة الامريكية",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "United States of America (a country in North America)",
+        "example": "",
+        "definition_ar": "الولايات المتحدة الأمريكية: دولة تقع في أمريكا الشمالية."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الترجمة السبعينية",
+    "word_bare": "الترجمة السبعينية",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Septuagint",
+        "example": "",
+        "definition_ar": "الترجمة السبعينية: ترجمة يونانية قديمة للكتاب العبري."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "اشتقاق",
+    "word_bare": "اشتقاق",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "verbal noun of اِشْتَقَّ (ištaqqa) (form VIII)",
+        "example": "",
+        "definition_ar": "مصدر الفعل «اِشْتَقَّ» في الصيغة الثامنة."
+      },
+      {
+        "definition": "etymology, derivation",
+        "example": "",
+        "definition_ar": "أصل الكلمات وتاريخها؛ الاشتقاق."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أربعة",
+    "word_bare": "اربعة",
+    "root": "",
+    "word_type": "num",
+    "meanings": [
+      {
+        "definition": "four",
+        "example": "",
+        "definition_ar": "أربعة؛ العدد 4."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أربعة",
+    "word_bare": "اربعة",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "plural of رَبِيع (rabīʕ)",
+        "example": "",
+        "definition_ar": "جمع «رَبِيع»."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "ارتداد",
+    "word_bare": "ارتداد",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "verbal noun of اِرْتَدَّ (irtadda) (form VIII)",
+        "example": "",
+        "definition_ar": "مصدر الفعل «اِرْتَدَّ» في الصيغة الثامنة."
+      },
+      {
+        "definition": "apostasy",
+        "example": "",
+        "definition_ar": "ردّة؛ ارتداد عن الدين أو المعتقد."
+      },
+      {
+        "definition": "fallback",
+        "example": "",
+        "definition_ar": "خيار احتياطي؛ أو تراجع إلى وضع سابق بحسب السياق."
+      },
+      {
+        "definition": "retraction",
+        "example": "",
+        "definition_ar": "تراجع عن قول أو موقف؛ سحب تصريح."
+      },
+      {
+        "definition": "retreat",
+        "example": "",
+        "definition_ar": "انسحاب؛ تراجع."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "إنجيل",
+    "word_bare": "انجيل",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "the Gospel, the evangel",
+        "example": "",
+        "definition_ar": "الإنجيل؛ البشارة."
+      },
+      {
+        "definition": "the New Testament",
+        "example": "",
+        "definition_ar": "العهد الجديد من الكتاب المقدس."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الخميس",
+    "word_bare": "الخميس",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Thursday",
+        "example": "الْخَمِيسُ يَوْمُ إِجَازَةٍ فِي بَعْضِ ٱلْبُلْدَانِ ٱلْعَرَبِيَّةِ.",
+        "definition_ar": "الخميس؛ أحد أيام الأسبوع."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الجمعة",
+    "word_bare": "الجمعة",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Friday",
+        "example": "",
+        "definition_ar": "الجمعة؛ أحد أيام الأسبوع."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "السبت",
+    "word_bare": "السبت",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "Saturday, the cessation or last day of the week",
+        "example": "السَّبْتُ لَدَى ٱلْيَهُودِ يَوْمٌ مُهِمٌّ.",
+        "definition_ar": "السبت؛ يوم السبت، ويُعد في بعض التقاليد يوم الراحة أو آخر أيام الأسبوع."
+      },
+      {
+        "definition": "the Sabbath",
+        "example": "",
+        "definition_ar": "السبت؛ يوم الراحة الديني في بعض التقاليد."
+      },
+      {
+        "definition": "the duration of a week, seven-day cycle",
+        "example": "",
+        "definition_ar": "أسبوع؛ مدة تتألف من سبعة أيام."
+      }
+    ],
+    "synonyms": [
+      "يَوْم السَّبْت"
+    ],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الإثنين",
+    "word_bare": "الاثنين",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "misspelling of الاِثْنَيْن (al-iṯnayn)",
+        "example": "",
+        "definition_ar": "كتابة إملائية غير صحيحة لكلمة «الاثنين»."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الثلاثاء",
+    "word_bare": "الثلاثاء",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Tuesday",
+        "example": "",
+        "definition_ar": "الثلاثاء؛ أحد أيام الأسبوع."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الأربعاء",
+    "word_bare": "الاربعاء",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Wednesday",
+        "example": "",
+        "definition_ar": "الأربعاء؛ أحد أيام الأسبوع."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "إمام",
+    "word_bare": "امام",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "leader, example, exemplar, paragon",
+        "example": "",
+        "definition_ar": "قائد؛ قدوة أو مثال يُحتذى به."
+      },
+      {
+        "definition": "imam",
+        "example": "",
+        "definition_ar": "إمام؛ من يتقدّم الناس في الصلاة، أو قائد ديني بحسب السياق."
+      },
+      {
+        "definition": "guideline",
+        "example": "",
+        "definition_ar": "إرشاد؛ توجيه أو قاعدة يُهتدى بها."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "آذار",
+    "word_bare": "اذار",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "March, the 3th month of the Gregorian calendar",
+        "example": "",
+        "definition_ar": "آذار/مارس: الشهر الثالث في التقويم الغريغوري."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "البوسنة والهرسك",
+    "word_bare": "البوسنة والهرسك",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Bosnia and Herzegovina (a country on the Balkan Peninsula in Southeastern Europe)",
+        "example": "",
+        "definition_ar": "البوسنة والهرسك: دولة تقع في شبه جزيرة البلقان في جنوب شرق أوروبا."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أبريل",
+    "word_bare": "ابريل",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "April (fourth month of the Gregorian calendar)",
+        "example": "",
+        "definition_ar": "أبريل/نيسان: الشهر الرابع في التقويم الغريغوري."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أغسطس",
+    "word_bare": "اغسطس",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "August (eighth month of the Gregorian calendar)",
+        "example": "",
+        "definition_ar": "أغسطس/آب: الشهر الثامن في التقويم الغريغوري."
+      },
+      {
+        "definition": "Augustus, August (Roman personal name)",
+        "example": "",
+        "definition_ar": "أوغسطس؛ اسم شخصي روماني."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أكتوبر",
+    "word_bare": "اكتوبر",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "October (tenth month of the Gregorian calendar)",
+        "example": "",
+        "definition_ar": "أكتوبر/تشرين الأول: الشهر العاشر في التقويم الغريغوري."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أرمينية",
+    "word_bare": "ارمينية",
+    "root": "",
+    "word_type": "adj",
+    "meanings": [
+      {
+        "definition": "feminine singular of أَرْمِينِيّ (ʔarmēniyy, “Armenian”)",
+        "example": "",
+        "definition_ar": "صيغة المؤنث المفرد من «أرمينيّ»."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أرمينية",
+    "word_bare": "ارمينية",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "female equivalent of أَرْمِينِيّ (ʔarmēniyy, “Armenian”)",
+        "example": "",
+        "definition_ar": "المؤنث المقابل لكلمة «أرمينيّ»؛ امرأة أرمينية."
+      },
+      {
+        "definition": "Armenian (person)",
+        "example": "",
+        "definition_ar": "أرميني؛ شخص من أرمينيا."
+      },
+      {
+        "definition": "Armenian (language)",
+        "example": "",
+        "definition_ar": "اللغة الأرمنية."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أغبياء",
+    "word_bare": "اغبياء",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "plural of غَبِيّ (ḡabiyy, “idiot”)",
+        "example": "",
+        "definition_ar": "جمع «غَبِيّ»؛ أي أحمق أو قليل الفطنة."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أغبياء",
+    "word_bare": "اغبياء",
+    "root": "",
+    "word_type": "adj",
+    "meanings": [
+      {
+        "definition": "masculine plural of غَبِيّ (ḡabiyy, “ignorant, stupid”)",
+        "example": "",
+        "definition_ar": "جمع المذكر من «غَبِيّ»؛ أي جاهل أو قليل الفطنة."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أسبوع",
+    "word_bare": "اسبوع",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "week (unit of time)",
+        "example": "",
+        "definition_ar": "أسبوع؛ وحدة زمنية تتكون من سبعة أيام."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "اسمي",
+    "word_bare": "اسمي",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "first-person singular possessive of اِسْم (ism)",
+        "example": "",
+        "definition_ar": "صيغة الملكية للمتكلم المفرد من «اسم»، بمعنى «اسمي»."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "اسمي",
+    "word_bare": "اسمي",
+    "root": "",
+    "word_type": "phrase",
+    "meanings": [
+      {
+        "definition": "my name is ...",
+        "example": "اِسْمِي أَحْمَد.",
+        "definition_ar": "اسمي هو...؛ صيغة للتعريف بالاسم."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "اسمي",
+    "word_bare": "اسمي",
+    "root": "",
+    "word_type": "adj",
+    "meanings": [
+      {
+        "definition": "nominal",
+        "example": "",
+        "definition_ar": "اسميّ؛ متعلق بالاسم أو قائم مقامه."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "اسمي",
+    "word_bare": "اسمي",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الإمارات",
+    "word_bare": "الامارات",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "ellipsis of الْإِمَارَات الْعَرَبِيَّة الْمُتَّحِدَة (al-ʔimārāt al-ʕarabiyya(t) al-muttaḥida, “United Arab Emirates”): the Emirates.",
+        "example": "وأضاف في لهجة بدت كأنها تشير إلى دولة الإمارات: “المشكلة مع من يسعى لتخريب بيتي لأسباب مشبوهة، ويحاول التدخل في شؤون داخلية لم نسمح حتى للدول العظمى بالتدخل فيها، يجب أن يُحافظ على موقعه ونبقى أشقاء دون مشاكل”.",
+        "definition_ar": "اختصار لعبارة «الإمارات العربية المتحدة»؛ أي الإمارات."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أمل",
+    "word_bare": "امل",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [
+      {
+        "definition": "to hope for",
+        "example": "",
+        "definition_ar": "يأمل في؛ يرجو حصول شيء."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أمل",
+    "word_bare": "امل",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [
+      {
+        "definition": "to hope",
+        "example": "",
+        "definition_ar": "يأمل؛ يرجو حدوث أمر."
+      },
+      {
+        "definition": "to expect",
+        "example": "",
+        "definition_ar": "يتوقّع؛ ينتظر حدوث شيء."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أمل",
+    "word_bare": "امل",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "verbal noun of أَمَلَ (ʔamala) (form I)",
+        "example": "",
+        "definition_ar": "مصدر الفعل «أَمَلَ» في الصيغة الأولى."
+      },
+      {
+        "definition": "hope, expectation",
+        "example": "وَيُعَلِّقُ الأُرْدُنِيُّونَ الآمَالَ عَلَى الخصاونة.",
+        "definition_ar": "أمل؛ رجاء أو توقّع."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أمل",
+    "word_bare": "امل",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "a female given name, Amal",
+        "example": "",
+        "definition_ar": "أمل: اسم علم مؤنث."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أمل",
+    "word_bare": "امل",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [
+      {
+        "definition": "to bore, to tire",
+        "example": "",
+        "definition_ar": "يُملّ؛ يُتعب أو يبعث على السأم."
+      },
+      {
+        "definition": "to annoy, to irritate",
+        "example": "",
+        "definition_ar": "يزعج؛ يضايق أو يثير الاستياء."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أمل",
+    "word_bare": "امل",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أمل",
+    "word_bare": "امل",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [
+      {
+        "definition": "to dictate",
+        "example": "",
+        "definition_ar": "يُملي؛ يلفظ كلامًا ليكتبه شخص آخر."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أمل",
+    "word_bare": "امل",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أمل",
+    "word_bare": "امل",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أمل",
+    "word_bare": "امل",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أمل",
+    "word_bare": "امل",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أمل",
+    "word_bare": "امل",
+    "root": "",
+    "word_type": "verb",
+    "meanings": [],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "آمين",
+    "word_bare": "امين",
+    "root": "",
+    "word_type": "intj",
+    "meanings": [
+      {
+        "definition": "amen",
+        "example": "",
+        "definition_ar": "آمين؛ لفظ يُقال في ختام الدعاء."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الإسلام",
+    "word_bare": "الاسلام",
+    "root": "",
+    "word_type": "name",
+    "meanings": [
+      {
+        "definition": "Islam, the religious system advocated by Muhammad",
+        "example": "إِنَّ ٱلدِّينَ عِندَ ٱللهِ ٱلۡإِسۡلَــٰمُ ۗ وَمَا ٱخۡتَلَفَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَــٰبَ إِلَّا مِنۢ بَعۡدِ مَا جَآءَهُمُ ٱلۡعِلۡمُ بَغْيًۢا بَيۡنَهُمۡ ۗ وَمَن يَكۡفُرۡ بِـَٔايَـٰتِ ٱللهِ فَإِنَّ ٱللهَ سَرِيعُ ٱلۡحِسَابِ",
+        "definition_ar": "الإسلام: الدين الذي جاء به النبي محمد."
+      },
+      {
+        "definition": "definite singular of إِسْلَام (ʔislām)",
+        "example": "",
+        "definition_ar": "صيغة المفرد المعرفة من «إسلام»."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أ",
+    "word_bare": "ا",
+    "root": "",
+    "word_type": "character",
+    "meanings": [
+      {
+        "definition": "The first letter of the Arabic alphabet, called أَلِف (ʔalif) and written in the Arabic script; followed by ب (b).",
+        "example": "",
+        "definition_ar": "أول حروف الأبجدية العربية، ويُسمّى الألف، ويُكتب «أ»، ويليه حرف الباء."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "أ",
+    "word_bare": "ا",
+    "root": "",
+    "word_type": "particle",
+    "meanings": [
+      {
+        "definition": "introduces a positive yes-no question",
+        "example": "أَرَأَيْتَ الَّذِي يَنْهَىٰ (9) عَبْدًا إِذَا صَلَّىٰ (10) أَرَأَيْتَ إِن كَانَ عَلَى الْهُدَىٰ (11) أَوْ أَمَرَ بِالتَّقْوَىٰ (12)",
+        "definition_ar": "حرف استفهام يُدخل سؤالًا مثبتًا يُجاب عنه بنعم أو لا."
+      },
+      {
+        "definition": "introduces a negative yes-no question",
+        "example": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ (6) إِرَمَ ذَاتِ الْعِمَادِ (7) الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ (8)",
+        "definition_ar": "حرف استفهام يُدخل سؤالًا منفيًا يُجاب عنه بنعم أو لا."
+      },
+      {
+        "definition": "indicates an exclusive disjunction with أَمْ (ʔam, “or”), as in alternative questions",
+        "example": "وَإِنْ أَدْرِي أَقَرِيبٌ أَم بَعِيدٌ مَّا تُوعَدُونَ",
+        "definition_ar": "يدلّ على استفهام يتضمن خيارين متقابلين باستخدام «أم»، كما في الأسئلة التي تطلب الاختيار بين بديلين."
+      },
+      {
+        "definition": "indicates an inclusive disjunction with أَمْ (ʔam, “or”) that denotes sameness, indistinguishability, unimportance, insignificance, or indifference",
+        "example": "سَوَاءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللّٰهُ لَهُمْ",
+        "definition_ar": "يدلّ، مع «أم»، على التسوية أو عدم التفريق بين أمرين، أو على عدم الأهمية أو الاكتراث بحسب السياق."
+      },
+      {
+        "definition": "vocative particle",
+        "example": "",
+        "definition_ar": "أداة نداء."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  },
+  {
+    "word_diacritics": "الفضائل الرئيسية",
+    "word_bare": "الفضائل الرئيسية",
+    "root": "",
+    "word_type": "noun",
+    "meanings": [
+      {
+        "definition": "cardinal virtues",
+        "example": "",
+        "definition_ar": "الفضائل الأساسية الأربع في التصنيف الأخلاقي التقليدي."
+      }
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": []
+  }
+]
